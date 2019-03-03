@@ -144,5 +144,8 @@
   <ItemGroup>
     <Resource Include="apache.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="bhj.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
