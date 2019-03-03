@@ -3,8 +3,8 @@
 ### Library : Apache PDFBox
 ### Lanagauge : C#
 
-## Input
+## Input Format (PDF)
 ![pdf_example](./YourGrade/pdf_example.PNG)
 
-## Output
+## Output (Program)
 ![output_example](./YourGrade/output_example.PNG)
