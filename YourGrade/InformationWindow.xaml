@@ -7,7 +7,7 @@
       mc:Ignorable="d" 
       Title="정보" Height="170" Width="400" ResizeMode="NoResize">
     <Grid>
-        <Image x:Name="image" HorizontalAlignment="Left"   Width="100" Source="bhj.png" Margin="10,17,0,24"/>
+        <Image x:Name="image" HorizontalAlignment="Left"   Width="100" Source="bhj.png" Margin="20,15,0,26"/>
 
         <TextBlock HorizontalAlignment="Left" Height="23" Margin="140,38,0,0" TextWrapping="Wrap" Text="Developer : 배형진" VerticalAlignment="Top"  FontSize="14"/>
         <TextBlock HorizontalAlignment="Left" Height="23" Margin="140,10,0,0" TextWrapping="Wrap" Text="Category : 학점 계산기" VerticalAlignment="Top" FontSize="14"/>
