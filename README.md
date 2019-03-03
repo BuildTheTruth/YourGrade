@@ -4,4 +4,4 @@
 ### Lanagauge : C#
 ### Count of PDF files for testing : 17
 
-![output_example](./
+![output_example](./YourGrade/output_example.PNG)
