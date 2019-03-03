@@ -9,5 +9,5 @@
 ## Intermediate Step (PDF -> String)
 ![pdf_parser](./YourGrade/pdf_parser.PNG)
 
-## Output (Program)
+## Output (.exe)
 ![output_example](./YourGrade/output_example.PNG)
